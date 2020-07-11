@@ -15,8 +15,8 @@ Usage of SocialPhish for attacking targets without prior mutual consent is illeg
 ```
 git clone https://github.com/Jokerheroki/phishing-by-kv
 cd phishing-by-kv
-chmod +x socialphish.sh
-./socialphish.sh
+chmod +x phishing-by-kv.sh *
+bash phishing-by-kv.sh
 ```
 
 ###### support us
