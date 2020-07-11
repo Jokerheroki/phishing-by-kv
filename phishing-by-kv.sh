@@ -211,9 +211,6 @@ printf "\e[1;77m  |  |/ /\____ \|  |  \|  |/  ___/  |  \|  |/    \  / ___\ \e[0m
 printf "\e[1;77m  |    < |  |_> >   Y  \  |\___ \|   Y  \  |   |  \/ /_/  > \e[0m\n"
 printf "\e[1;77m  |__|_ \|   __/|___|  /__/____  >___|  /__|___|  /\___  /  \e[0m\n"
 printf "\e[1;77m    \/|__|        \/        \/     \/        \//_____/  \e[0m\n"
-printf "\e[1;77m        Author is kisna verma                        \e[0m\n"
-printf "\e[1;77m         email is hlost2331@gmail.com                \e[0m\n"
-printf "\e[1;77m 
 printf "\n"
 printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool coded by: kisna \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"
